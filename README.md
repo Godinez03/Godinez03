@@ -9,12 +9,13 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- Soy Tecnico en Recursos Humanos y Aprendiz de la tecnologia Analisis y Desarrollo de Software en el SENA
 
 - Tengo muchas ganas de reforzar mis conocimientos,habilidades y compromiso en la tecnologia ADSO
 - Dispuesto aportar con mis habilidades y conocimientos 
 - Tengo muy buenas Fortalezas como en el trabajo en equipo, en liderar algun trabajo o proyecto, escuchar y ayudar y ser muy respetuoso
+- Me gusta aprender cosas nuevas y ponerlas en practica 
 
+<br><br>
 <br><br>
 
 <img src
